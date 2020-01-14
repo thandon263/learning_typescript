@@ -1,0 +1,7 @@
+{
+    "injectChanges": true,
+    "files": [ "./**/*.{html,htm,css,js}" ],
+    "server": {
+        "baseDir": "./dist"
+    }
+}
